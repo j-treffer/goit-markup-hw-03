@@ -278,7 +278,6 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
-padding-top: 32px;
 margin-bottom: 8px;
 }
 
@@ -289,7 +288,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
-padding-bottom: 32px;
 }
 
 /* #endregion team */
@@ -365,9 +363,9 @@ padding: 100px 0;
 
 
 .logo-footer{
+font-family: Raleway, sans-serif;
 margin-bottom: 16px;
 display: inline-block;
-padding-top: 100px;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
